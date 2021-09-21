@@ -1,5 +1,6 @@
 This is the basis of the simple servo tester.
 this has three "Modes" in which to test your servo, they are as follows...
+
 Mode 1 : Knob mode
   This maps the input givin, to the servo's output and updates it's position if the value changes. In this case the input is a potentiometer.
   
