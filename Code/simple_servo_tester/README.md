@@ -10,12 +10,11 @@ Mode 2: Center mode
   what the relationship between the servo horn is to the over all structure you are 
   mounting the servo to and to the desired output that the servo horn is acting apon.
     
-    eg ( A robotic leg where the servo is attached to a ridigid body to form a knee. 
-       Problem: You need to now attach the lower portion of the leg via the servo 
-       horn..., but wait! 
-       Where is the servo going to go when you turn it on? 
-       What position did you last have the servo facing?
-       Is it possible that you may have moved the output shaft while attaching or assembling the structure? )
+  eg ( A robotic leg where the servo is attached to a ridigid body to form a knee. 
+    Problem: You need to now attach the lower portion of the leg via the servo horn..., but wait! 
+    Where is the servo going to go when you turn it on? 
+    What position did you last have the servo facing?
+    Is it possible that you may have moved the output shaft while attaching or assembling the structure? )
        
   This "Mode" helps by showing you wher the center is and can hold the power and keep the servo in that 
   position until your finished attaching and assembling things.
