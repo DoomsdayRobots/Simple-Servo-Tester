@@ -24,14 +24,14 @@ Mode 3: Sweep mode.
   This runs the servo to it's max and min movement, in a loop,  until the mode is changed
 
 To Do :
-    add more functionality...
-    Mode 4: Program and playback mode.
-      functions for: 
-          start 
-          stop
-          play 
-          record
-      add 3 POTs for mixing
-      add a hook up diagram, for wiring
-      remove all of the delay()s, replace them with millis()
+  add more functionality...
+  Mode 4: Program and playback mode.
+    functions for: 
+      start 
+      stop
+      play 
+      record
+    add 3 POTs for mixing
+    add a hook up diagram, for wiring
+    remove all of the delay()s, replace them with millis()
        
