@@ -2,17 +2,15 @@ This is the basis of the simple servo tester.
 this has three "Modes" in which to test your servo, they are as follows...
 
 Mode 1 : Knob mode
-
-  This maps the input givin, to the servo's output and updates it's position if the value changes. In this case the input is a potentiometer.
+    This maps the input givin, to the servo's output and updates it's position if the value changes. In this case the input is a potentiometer.
   
 Mode 2: Center mode
-
-  This sends the servo to it's center position.
-  This is usefull for when mounting servos in various robotic platforms and figuring out 
-  what the relationship between the servo horn is to the over all structure you are 
-  mounting the servo to and to the desired output that the servo horn is acting apon.
+    This sends the servo to it's center position.
+    This is usefull for when mounting servos in various robotic platforms and figuring out 
+    what the relationship between the servo horn is to the over all structure you are 
+    mounting the servo to and to the desired output that the servo horn is acting apon.
   
-  eg ( A robotic leg where the servo is attached to a ridigid body to form a knee. 
+    eg ( A robotic leg where the servo is attached to a ridigid body to form a knee. 
        Problem: You need to now attach the lower portion of the leg via the servo 
        horn..., but wait! 
        Where is the servo going to go when you turn it on? 
