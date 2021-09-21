@@ -16,9 +16,9 @@ Mode 2: Center mode
        What position did you last have the servo facing?
        Is it possible that you may have moved the output shaft while attaching or assembling the structure? )
           
-       This "Mode" helps by showing you wher the center is and can hold the power and keep the servo in that 
-       position until your finished attaching and assembling things.
-        you could also use "Mode 1" to acomplish the same things, but off center.
+  This "Mode" helps by showing you wher the center is and can hold the power and keep the servo in that 
+  position until your finished attaching and assembling things.
+  you could also use "Mode 1" to acomplish the same things, but off center.
 
 Mode 3: Sweep mode.
   This runs the servo to it's max and min movement, in a loop,  until the mode is changed
